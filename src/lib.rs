@@ -96,6 +96,7 @@ pub mod gpio;
         feature = "stm32f733",
         feature = "stm32f746",
         feature = "stm32f767",
+        feature = "stm32f769",
     )
 ))]
 pub mod otg_fs;
@@ -110,6 +111,7 @@ pub mod otg_fs;
         feature = "stm32f733",
         feature = "stm32f746",
         feature = "stm32f767",
+        feature = "stm32f769",
     )
 ))]
 pub mod otg_hs;
